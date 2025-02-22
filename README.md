@@ -1,4 +1,4 @@
-# OAuth2 PKCE Flow
+# OAuth2 PKCE Flow POC
 
 This project demonstrates an implementation of the OAuth2 Authorization Code Flow with Proof Key for Code Exchange (PKCE).
 
